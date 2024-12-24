@@ -16,10 +16,10 @@ This project explores the relationship between user demographics (age, location)
 ---
 
 ## Files in this Repository:
-- **data/**: Contains cleaned and raw datasets.
-- **visuals/**: Contains key visualizations of the analysis.
-- **analysis/**: Jupyter notebook for data analysis.
-- **results/**: Contains the final report of business insights.
+- **data**: Contains cleaned and raw datasets.
+- **visuals**: Contains key visualizations of the analysis.
+- **analysis**: Jupyter notebook for data analysis.
+- **results**: Contains the final report of business insights.
 
 ---
 
