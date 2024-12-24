@@ -71,3 +71,4 @@ Feel free to fork the repository and submit pull requests.
 
 ## Contact
 For queries, reach out via email or open an issue in the repository.
+Email - sdprasanth.5@gmail.com
